@@ -1,5 +1,8 @@
 # pulsaris-core
- Multichain DeFi protocol for staking, leverage, and liquidation—powered by signal intelligence.
+Multichain DeFi protocol for staking, leverage, and liquidation powered by signal intelligence.
+
+![PULSARIS Logo](pulsaris-logo.png)
+
 ## Features
 - Multichain staking and leverage
 - Liquidation logic with signal triggers
@@ -36,3 +39,5 @@ The following modules will be added to the `contracts/` folder:
 - `staking.rs`: Handles staking logic and reward distribution
 - `liquidation.rs`: Manages liquidation triggers and thresholds
 - `governance.rs`: Enables protocol voting and upgrades
+
+
