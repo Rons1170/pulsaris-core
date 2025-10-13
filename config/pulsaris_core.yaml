@@ -1,0 +1,30 @@
+pulsaris_core:
+  hedge:
+    cap_nav_pct: 0.70
+    venues_whitelist: [binance, bybit, okx, kraken]
+    max_venue_exposure_pct: 0.35
+    slippage_bps_max: 5
+    cooldown_minutes: 15
+    kill_switch_tracking_error_pct: 2.0
+  signals:
+    weights:
+      funding: 0.30
+      basis: 0.20
+      open_interest: 0.20
+      liquidation_proximity: 0.15
+      correlation_vol: 0.10
+      whale_flows: 0.05
+    thresholds:
+      ramp_start: 20
+      ramp_mid: 40
+      ramp_high: 60
+      ramp_peak: 80
+  basket:
+    majors: { BTC: 0.30, ETH: 0.25, SOL: 0.15 }
+    defi: { AAVE: 0.05, UNI: 0.05, LINK: 0.05 }
+    infra_ai: { TAO: 0.03, QNT: 0.02 }
+    meme_beta: { DOGE: 0.03, SHIB: 0.02 }
+    stability: { USDC: 0.03, USDT: 0.02, PAXG: 0.05 }
+  transparency:
+    emit_onchain_events: true
+    dashboard_refresh_seconds: 15
