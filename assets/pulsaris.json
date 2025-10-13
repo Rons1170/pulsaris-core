@@ -2,7 +2,7 @@
   "name": "PULSARIS",
   "symbol": "PULSARIS",
   "description": "Adaptive, whale-tracking index token with automatic hedging.",
-  "image": "https://raw.githubusercontent.com/<YOUR_GH_USERNAME>/pulsaris-core/main/assets/pulsaris.png",
+  "image": "https://raw.githubusercontent.com/Rons1170/pulsaris-core/main/assets/pulsaris.png",
   "external_url": "https://x.com/PulsarisCore",
   "attributes": [
     {"trait_type": "Mechanism", "value": "Adaptive hedging"},
