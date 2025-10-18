@@ -6,9 +6,9 @@
   "extensions": {
     "website": "https://github.com/Rons1170/pulsaris-core",
     "twitter": "https://x.com/PulsarisCore",
-  "discord": "https://discord.gg/<your-server-invite>",
-  "discord_user": "@pulsariscore",
-  "discord_display": "PulsarisCore Official",
-  "telegram": "https://t.me/PulsarisCore"
+    "discord": "https://discord.gg/your-server-invite",
+    "discord_user": "@pulsariscore",
+    "discord_display": "PulsarisCore Official",
+    "telegram": "https://t.me/PulsarisCore"
   }
 }
