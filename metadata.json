@@ -5,7 +5,10 @@
   "image": "https://raw.githubusercontent.com/Rons1170/pulsaris-core/main/pulsaris-logo.png",
   "extensions": {
     "website": "https://github.com/Rons1170/pulsaris-core",
-    "twitter": "https://twitter.com/YOUR_HANDLE",
-    "discord": "https://discord.gg/YOUR_INVITE"
+    "twitter": "https://x.com/PulsarisCore",
+  "discord": "https://discord.gg/<your-server-invite>",
+  "discord_user": "@pulsariscore",
+  "discord_display": "PulsarisCore Official",
+  "telegram": "https://t.me/PulsarisCore"
   }
 }
