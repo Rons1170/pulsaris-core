@@ -24,6 +24,9 @@
       margin: 0 auto 20px;
       color: #9fb3c8;
     }
+    .buttons {
+      margin-top: 30px;
+    }
     a {
       display: inline-block;
       margin: 10px;
@@ -33,14 +36,21 @@
       text-decoration: none;
       border-radius: 6px;
       font-weight: bold;
+      transition: background 0.2s;
+    }
+    a:hover {
+      background: #a5baff;
     }
   </style>
 </head>
 <body>
+  <img src="pulsaris-logo.png" alt="PulsarisCore Logo" width="200">
   <h1>Welcome to PulsarisCore</h1>
   <p>This is the official site for <strong>$PULSARIS</strong> — staking, governance, and liquidity routing on Solana.</p>
-  <a href="https://explorer.solana.com/address/Dp1FEEd43TH6DxKXmVGBNn9wkh9Mmj3kZKgZZZ4MbuZM?cluster=devnet">View on Explorer</a>
-  <a href="https://x.com/pulsariscore">Follow on X</a>
-  <a href="https://discord.gg/QRcFfRdN">Join Discord</a>
+  <div class="buttons">
+    <a href="https://explorer.solana.com/address/Dp1FEEd43TH6DxKXmVGBNn9wkh9Mmj3kZKgZZZ4MbuZM?cluster=devnet">View on Explorer</a>
+    <a href="https://x.com/pulsariscore">Follow on X</a>
+    <a href="https://discord.gg/QRcFfRdN">Join Discord</a>
+  </div>
 </body>
 </html>
