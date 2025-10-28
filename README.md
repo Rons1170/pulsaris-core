@@ -1,43 +1,59 @@
-# pulsaris-core
-Multichain DeFi protocol for staking, leverage, and liquidation powered by signal intelligence.
+# 🌌 Pulsaris‑Core ($PULSE)
 
-![PULSARIS Logo](pulsaris-logo.png)
-
-## Features
-- Multichain staking and leverage
-- Liquidation logic with signal triggers
-- $PULSARIS token utility
-
-## Architecture
-- Solana smart contracts
-- Frontend dashboard (React or Svelte)
-- Signal-based liquidation engine
-
-## Getting Started
-- Clone repo
-- Install dependencies
-- Deploy to devnet
-
-## Tokenomics
-- Total supply: 1B
-- Staking rewards: 40%
-- Treasury: 20%
-- Liquidity: 20%
-- Team & Advisors: 20%
-
-## Roadmap
-- Q3: Core contracts + devnet launch
-- Q4: Dashboard UI + testnet
-- Q1: Mainnet + governance
-```
+**Pulsaris‑Core** is a modular DeFi ecosystem built on **Solana**, designed for security, scalability, and community governance.  
+With staking, liquidity routing, and automated risk management, $PULSE is engineered to be the backbone of next‑generation decentralized finance.
 
 ---
 
-## Smart Contract Expansion (Coming Soon)
+## 🔑 Token Details
+- **Name:** Pulsaris‑Core  
+- **Symbol:** PULSE  
+- **Mint Address:** `Dp1FEEd43TH6DxKXmVGBNn9wkh9Mmj3kZKgZZZ4MbuZM`  
+- **Network:** Solana Devnet  
 
+---
+
+## 📊 Tokenomics
+- **Total Supply:** 1B  
+- **Staking Rewards:** 40%  
+- **Treasury:** 20%  
+- **Liquidity:** 20%  
+- **Team & Advisors:** 20%  
+
+---
+
+## 🗺️ Roadmap
+- **Q3:** Core contracts + Devnet launch  
+- **Q4:** Dashboard UI + Testnet  
+- **Q1:** Mainnet + Governance  
+- **Q4 2025:** Staking contract launch  
+- **Q1 2026:** Governance module rollout  
+- **Q2 2026:** Liquidity routing + bot integration  
+- **Future:** Mainnet cutover and ecosystem expansion  
+
+---
+
+## 🛠️ Smart Contract Expansion (Coming Soon)
 The following modules will be added to the `contracts/` folder:
-- `staking.rs`: Handles staking logic and reward distribution
-- `liquidation.rs`: Manages liquidation triggers and thresholds
-- `governance.rs`: Enables protocol voting and upgrades
+- `staking.rs` → Handles staking logic and reward distribution  
+- `liquidation.rs` → Manages liquidation triggers and thresholds  
+- `governance.rs` → Enables protocol voting and upgrades  
 
+---
 
+## 🌐 Community
+Stay connected with the Pulsaris‑Core community:  
+- [X (Twitter)](https://x.com/pulsariscore)  
+- [Discord](https://discord.gg/QRcFfRdN)  
+- [Telegram](https://t.me/pulsariscore)  
+
+---
+
+## 📜 License
+This project is released under the **MIT License**.  
+See [LICENSE](LICENSE) for details.
+
+---
+
+### ✨ Live Site
+👉 [Pulsaris‑Core GitHub Pages](https://rons1170.github.io/pulsaris-core/)
