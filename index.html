@@ -7,15 +7,25 @@
   <meta name="description" content="Pulsaris‑Core ($PULSE) — staking, governance, liquidity routing, and bot‑integrated DeFi on Solana.">
   <style>
     body {
-      margin: 0;
-      font-family: system-ui, sans-serif;
-      background-color: #0b0f1a;
-      background-image:
-        linear-gradient(90deg, rgba(124,156,255,0.05) 1px, transparent 1px),
-        linear-gradient(180deg, rgba(124,156,255,0.05) 1px, transparent 1px);
-      background-size: 60px 60px;
-      color: #e6eef8;
-      line-height: 1.6;
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: #e6eef8;
+  line-height: 1.6;
+
+  /* Dark base */
+  background-color: #0b0f1a;
+
+  /* Subtle crypto grid + glow */
+  background-image:
+    linear-gradient(90deg, rgba(124,156,255,0.08) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(124,156,255,0.08) 1px, transparent 1px),
+    radial-gradient(circle at top right, rgba(124,156,255,0.15), transparent 300px),
+    radial-gradient(circle at bottom left, rgba(0,255,200,0.1), transparent 300px);
+
+  background-size: 60px 60px, 60px 60px, auto, auto;
+  background-attachment: fixed;
+}
+
     }
     header {
       text-align: center;
