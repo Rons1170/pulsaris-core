@@ -10,24 +10,29 @@
       font-family: system-ui, sans-serif;
       background: #0b0f1a;
       color: #e6eef8;
-      text-align: center;
-      padding: 60px 20px;
+      line-height: 1.6;
     }
-    h1 {
+    header {
+      text-align: center;
+      padding: 60px 20px 40px;
+      background: linear-gradient(180deg, #0b0f1a 0%, #141b2d 100%);
+    }
+    header img {
+      width: 160px;
+      margin-bottom: 20px;
+    }
+    header h1 {
       font-size: 48px;
-      margin-bottom: 10px;
+      margin: 0 0 10px;
       color: #7c9cff;
     }
-    p {
+    header p {
       font-size: 20px;
       max-width: 700px;
       margin: 0 auto 20px;
       color: #9fb3c8;
     }
-    .buttons {
-      margin-top: 30px;
-    }
-    a {
+    .buttons a {
       display: inline-block;
       margin: 10px;
       padding: 12px 20px;
@@ -38,19 +43,89 @@
       font-weight: bold;
       transition: background 0.2s;
     }
-    a:hover {
+    .buttons a:hover {
       background: #a5baff;
+    }
+    section {
+      max-width: 900px;
+      margin: 60px auto;
+      padding: 0 20px;
+    }
+    section h2 {
+      font-size: 32px;
+      margin-bottom: 15px;
+      color: #7c9cff;
+      text-align: center;
+    }
+    section p, section ul {
+      font-size: 18px;
+      color: #c5d1e0;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin: 8px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      background: #141b2d;
+      color: #9fb3c8;
+      font-size: 14px;
     }
   </style>
 </head>
 <body>
-  <img src="pulsaris-logo.png" alt="PulsarisCore Logo" width="200">
-  <h1>Welcome to PulsarisCore</h1>
-  <p>This is the official site for <strong>$PULSARIS</strong> — staking, governance, and liquidity routing on Solana.</p>
-  <div class="buttons">
-    <a href="https://explorer.solana.com/address/Dp1FEEd43TH6DxKXmVGBNn9wkh9Mmj3kZKgZZZ4MbuZM?cluster=devnet">View on Explorer</a>
-    <a href="https://x.com/pulsariscore">Follow on X</a>
-    <a href="https://discord.gg/QRcFfRdN">Join Discord</a>
-  </div>
+  <header>
+    <img src="pulsaris-logo.png" alt="PulsarisCore Logo">
+    <h1>Welcome to PulsarisCore</h1>
+    <p>This is the official site for <strong>$PULSARIS</strong> — staking, governance, and liquidity routing on Solana.</p>
+    <div class="buttons">
+      <a href="https://explorer.solana.com/address/Dp1FEEd43TH6DxKXmVGBNn9wkh9Mmj3kZKgZZZ4MbuZM?cluster=devnet">View on Explorer</a>
+      <a href="https://x.com/pulsariscore">Follow on X</a>
+      <a href="https://discord.gg/QRcFfRdN">Join Discord</a>
+    </div>
+  </header>
+
+  <section>
+    <h2>About PulsarisCore</h2>
+    <p>PulsarisCore is more than a token — it’s a modular ecosystem built for security, scalability, and community governance. 
+    With staking, liquidity routing, and automated risk management, $PULSARIS is designed to be the backbone of next‑generation DeFi on Solana.</p>
+  </section>
+
+  <section>
+    <h2>Token Details</h2>
+    <ul>
+      <li><strong>Symbol:</strong> PULSE</li>
+      <li><strong>Mint Address:</strong> Dp1FEEd43TH6DxKXmVGBNn9wkh9Mmj3kZKgZZZ4MbuZM</li>
+      <li><strong>Network:</strong> Solana Devnet</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Roadmap</h2>
+    <ul>
+      <li><strong>Q4 2025:</strong> Staking contract launch</li>
+      <li><strong>Q1 2026:</strong> Governance module rollout</li>
+      <li><strong>Q2 2026:</strong> Liquidity routing + bot integration</li>
+      <li><strong>Future:</strong> Mainnet cutover and ecosystem expansion</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Join the Community</h2>
+    <p>Stay connected with the PulsarisCore community across platforms:</p>
+    <div class="buttons">
+      <a href="https://x.com/pulsariscore">X (Twitter)</a>
+      <a href="https://discord.gg/QRcFfRdN">Discord</a>
+      <a href="https://t.me/pulsariscore">Telegram</a>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 PulsarisCore — Built on Solana
+  </footer>
 </body>
 </html>
