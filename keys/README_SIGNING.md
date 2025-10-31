@@ -1,2 +1,2 @@
 
-Canonical provenance (Arweave): (provenance not yet published)
+Canonical provenance (Arweave): ar://NEW_TX_ID_HERE
