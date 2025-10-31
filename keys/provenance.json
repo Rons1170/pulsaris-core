@@ -1,0 +1,11 @@
+{
+  "project": "Pulsaris",
+  "description": "Canonical signer provenance for Pulsaris bot rebalances",
+  "pubkey_fingerprint": "306a044b149c5124385d979c684ebd1baf695d0dcc81b2fd3ee19d976c19342c",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp3ab7l74P5ZofZNurro9\niAQ3bFPWB1xdH4cPrgrkiaB7NtYaJhKm7L4ZZ6WYajHSjnc89/WbxBrGczcAhffg\ncbpIz/msjah1T0OIWXOR8x2uRjB2vT1YRd1HEcVZxFExXKvnNvTawRQKDQnhJ4Zj\nNNGH1fnbq57eD/Wz2f6pWMyvUNTh8b6mTXE7XjiQ4fQug8Eb/n7ZhOCXknHFY68p\nrlHIu18WIrwdk3fQd1oABekn+2MN2iT55104c3jd5EMr41rTzOosHI7/8pi+dB3W\njr9BUMmSZR3mC8bokLubYW94GlOg7mdvMboh2PSEuigX4SBmJfabB+CXhRz+qvNo\niwIDAQAB\n-----END PUBLIC KEY-----",
+  "notes": "Initial signer key for automated rebalance messages. Signed messages include payload = timestamp|nonce|message.",
+  "signer_cli": "keys/sign-cli.js",
+  "verify_cli": "keys/verify.js",
+  "created": "2025-10-31T00:47:52Z",
+  "contact": "maintainers@example.com"
+}
