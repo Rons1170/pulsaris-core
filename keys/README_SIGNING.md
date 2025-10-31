@@ -1,2 +1,2 @@
 
-Canonical provenance (Arweave): ar://NEW_TX_ID_HERE
+Canonical provenance (Arweave): ar://usBcFUyDToTA0eBczgqA4F6fDZlCNSqw3h3EdTIaShY
