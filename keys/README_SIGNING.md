@@ -1,2 +1,2 @@
 
-Canonical provenance (Arweave): ar://PASTE_TX_ID
+Canonical provenance (Arweave): ar://NEW_TX_ID_HERE
