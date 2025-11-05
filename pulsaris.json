@@ -1,0 +1,21 @@
+{
+  "name": "PULSARIS",
+  "symbol": "PULSE",
+  "image": "https://arweave.net/AJdZ9nGew1Z2vVUNNG54I1ksfm8IQ8XVdrIEYWMDMW4",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/AJdZ9nGew1Z2vVUNNG54I1ksfm8IQ8XVdrIEYWMDMW4",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://arweave.net/nvI_kA3wGad6JXQkak1RuYeqY50pOrdG9yp4GDeQyn4",
+        "type": "application/json"
+      },
+      {
+        "uri": "https://arweave.net/uTJdOmuVvACK1uLAK31vI-ATsQZLd8-GYlXYQmRxk9E",
+        "type": "application/json"
+      }
+    ]
+  }
+}

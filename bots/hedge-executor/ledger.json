@@ -1,0 +1,22 @@
+[
+  {
+    "venue": "binance",
+    "balance": 569,
+    "position": 0
+  },
+  {
+    "venue": "bybit",
+    "balance": 569,
+    "position": 0
+  },
+  {
+    "venue": "okx",
+    "balance": 569,
+    "position": 0
+  },
+  {
+    "venue": "kraken",
+    "balance": 569,
+    "position": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "Pulsaris",
+  "symbol": "PULSE",
+  "description": "Pulsaris is the master token designed for security, scalability, and automated liquidity management.",
+  "image": "https://arweave.net/jKaFJlrbG16OVkSf08FX5siRqBc2BuvOsElQXLxTyuI",
+  "external_url": "https://pulsaris.io",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Testnet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/jKaFJlrbG16OVkSf08FX5siRqBc2BuvOsElQXLxTyuI",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3aE5wBNir4bVWJSh2gATFVfBAuBsMXAcG6m2FysiMG7N",
+        "share": 100
+      }
+    ]
+  }
+}

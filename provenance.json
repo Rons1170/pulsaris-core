@@ -1,0 +1,15 @@
+{
+  "project": "Pulsaris",
+  "description": "Immutable provenance record for the Pulsaris token.",
+  "records": [
+    {
+      "type": "logo",
+      "uri": "https://arweave.net/AJdZ9nGew1Z2vVUNNG54I1ksfm8IQ8XVdrIEYWMDMW4"
+    },
+    {
+      "type": "metadata",
+      "uri": "https://arweave.net/nvI_kA3wGad6JXQkak1RuYeqY50pOrdG9yp4GDeQyn4"
+    }
+  ],
+  "timestamp": "2025-11-02T22:57:00Z"
+}

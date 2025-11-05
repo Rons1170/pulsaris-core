@@ -1,0 +1,30 @@
+const crypto = require('crypto');
+const fs = require('fs');
+
+// Load keys
+const privateKey = fs.readFileSync('./private.pem', 'utf8');
+const publicKey = fs.readFileSync('./public.pem', 'utf8');
+
+// Message to sign
+const message = 'rebalance: true';
+
+// Sign the message
+const signature = crypto.sign('sha256', Buffer.from(message), {
+  key: privateKey,
+  padding: crypto.constants.RSA_PKCS1_PADDING,
+});
+
+console.log('Signature (base64):', signature.toString('base64'));
+
+// Verify the signature
+const isValid = crypto.verify(
+  'sha256',
+  Buffer.from(message),
+  {
+    key: publicKey,
+    padding: crypto.constants.RSA_PKCS1_PADDING,
+  },
+  signature
+);
+
+console.log('Signature valid?', isValid);

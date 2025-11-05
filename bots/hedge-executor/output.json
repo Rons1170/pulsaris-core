@@ -1,0 +1,9 @@
+{
+  "instruction": {
+    "timestamp": 1760469973413,
+    "riskScore": 38.5,
+    "hedgeRatio": 15,
+    "venues": ["binance", "bybit", "okx", "kraken"]
+  },
+  "signature": "1111111111111111111111111111111111111111111111111111111111111111"
+}

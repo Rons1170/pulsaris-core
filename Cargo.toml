@@ -1,0 +1,29 @@
+[workspace]
+members = [
+  "programs/pulsaris-category-vaults",
+  "programs/pulsaris-hedge-manager",
+  "programs/pulsaris-staking",
+  "programs/pulsaris-master-token"
+]
+resolver = "2"
+
+[workspace.lints.rust]
+large_stack_frames = "allow"
+
+[workspace.dependencies]
+anchor-lang = "0.32.1"
+anchor-spl = { version = "0.32.1", default-features = false, features = ["token"] }
+
+[profile.release]
+overflow-checks = true
+
+[profile.dev]
+opt-level = 1
+debug = true
+overflow-checks = true
+debug-assertions = true
+
+[profile.test]
+opt-level = 1
+overflow-checks = true
+debug-assertions = true
