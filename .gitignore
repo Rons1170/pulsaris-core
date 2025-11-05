@@ -1,0 +1,15 @@
+target/
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+*.tmp
+*.cache
+Cargo.lock
+.anchor/
+.idea/
+.vscode/
+*.key
+*.json~
+*.bin

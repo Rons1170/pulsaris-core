@@ -1,0 +1,23 @@
+[toolchain]
+anchor_version = "0.32.1"
+
+[features]
+resolution = true
+skip-lint = false
+
+[provider]
+cluster = "testnet"
+wallet = "/home/pulse-aris/.config/solana/pulsaris-testnet/id.json"
+
+[programs.testnet]
+pulsaris_master_token = "EuU9CKeysiH9xsFBD2B4n3dqry6CSzFAY4tcadZ5eFtN"
+pulsaris_category_vaults = "Gh4K4joEfrm2P3k1MHNBAWNobXWuuJHNNwFMpStiJVcK"
+pulsaris_hedge_manager = "GyAkayDBE1XDiXYbukc7gGSi3ddZjPhP2aH8Lwmg2Hfs"
+pulsaris_staking = "Cd281Df6HDi63JiEmeYR9cnVPm6g2eL8uDbG7TdWKwQS"
+
+[registry]
+url = "https://api.apr.dev"
+
+[scripts]
+initialize = "anchor test -- --nocapture --test-threads=1 initialize"
+update_params = "anchor test -- --nocapture --test-threads=1 update_params"
