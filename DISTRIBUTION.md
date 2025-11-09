@@ -1,0 +1,7 @@
+# 📜 Pulsaris Presale Distribution Log
+Canonical Mint: 5QK1wa64cTae5u9HDcBQj14GL7NrVPmGtHhcBXFffHVt
+
+- 7GgY7h9zj1o6x2bYt8VvX3o6X9pP6f7uQ1a2b3c4d5e6 → 1000 PULSE (Tx: [2Yfptr6wPPhV65mnfVRmF6SNRcs77pkVuF1JpDDgq8P7xUkz2TkT941CDgTeVh1AJoxbKjadF6zaAXY5tMdFpWDA](https://explorer.solana.com/tx/2Yfptr6wPPhV65mnfVRmF6SNRcs77pkVuF1JpDDgq8P7xUkz2TkT941CDgTeVh1AJoxbKjadF6zaAXY5tMdFpWDA?cluster=testnet))
+- 9xQeWvG816bUx9EPfH9fF5z9kX3v7kL2m1n2o3p4q5r6 → 2500 PULSE (Tx: [3nAE7UgKE6y1CSTodaVTJ8pDpn24bruWZVe5CfsPAQTByPJeNZV7M7AHnCEd7BckPTUGqJeN1w2wRzfGeBvFuHjX](https://explorer.solana.com/tx/3nAE7UgKE6y1CSTodaVTJ8pDpn24bruWZVe5CfsPAQTByPJeNZV7M7AHnCEd7BckPTUGqJeN1w2wRzfGeBvFuHjX?cluster=testnet))
+- EJa5Xo9bSb1QVMVrPbQKNNe4aikB3JVtyoyAcVN74cui → 5000 PULSE (Tx: [VLmnJ5vaqB6xUheoZTAsriFmMToLAhK6vg27H45q5xNLYzfGFteFiUAgUwSAizymjXcgp5U6XgKfHyZVcWtwP2q](https://explorer.solana.com/tx/VLmnJ5vaqB6xUheoZTAsriFmMToLAhK6vg27H45q5xNLYzfGFteFiUAgUwSAizymjXcgp5U6XgKfHyZVcWtwP2q?cluster=testnet))
+- FZnvjiv56SKYVdyFjQGa6oGU7QXnb3AdNSuvGH9EFWUv → 5000 PULSE (Tx: [3zwANG5TnZfikbmBB8ME6SznSLfPguhkbZrPNmNtLATG7yVYftSUusyj2CtBCMhXVXkNkX9UxuP7VjAEemN2FUds](https://explorer.solana.com/tx/3zwANG5TnZfikbmBB8ME6SznSLfPguhkbZrPNmNtLATG7yVYftSUusyj2CtBCMhXVXkNkX9UxuP7VjAEemN2FUds?cluster=testnet))
