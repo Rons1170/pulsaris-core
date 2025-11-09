@@ -1,51 +1,37 @@
-# 📜 Pulsaris Provenance
+# Pulsaris Provenance (Testnet)
 
-This document records the canonical, immutable provenance of Pulsaris assets.  
-Arweave is the **permanent source of truth**. IPFS mirrors may be provided for redundancy, but in case of discrepancy, Arweave links are authoritative.
-
----
-
-## 📂 Canonical Arweave Records
-
-- **Logo (PNG):**  
-  https://arweave.net/AJdZ9nGew1Z2vVUNNG54I1ksfm8IQ8XVdrIEYWMDMW4
-
-- **Metadata (JSON):**  
-  https://arweave.net/nvI_kA3wGad6JXQkak1RuYeqY50pOrdG9yp4GDeQyn4
-
-- **Provenance (JSON):**  
-  https://arweave.net/uTJdOmuVvACK1uLAK31vI-ATsQZLd8-GYlXYQmRxk9E
+This document records the canonical provenance of the **Pulsaris (PULSE)** token on Solana Testnet.  
+It establishes the authoritative mint, metadata, and transaction history for audit and contributor clarity.
 
 ---
 
-## 🔑 Program IDs
+## Mint Information
+- **Mint Address:**  
+  `5QK1wa64cTae5u9HDcBQj14GL7NrVPmGtHhcBXFffHVt`
 
-- **Master Token Program**  
-  Program ID: `<MASTER_TOKEN_PROGRAM_ID>`  
-  Explorer: https://explorer.solana.com/address/<MASTER_TOKEN_PROGRAM_ID>?cluster=devnet
-
-- **Hedge Manager Program**  
-  Program ID: `<HEDGE_MANAGER_PROGRAM_ID>`  
-  Explorer: https://explorer.solana.com/address/<HEDGE_MANAGER_PROGRAM_ID>?cluster=devnet
-
-- **Staking/Governance Program (planned)**  
-  *To be published*
+- **Metadata PDA:**  
+  `HgDrsEYfd8PyUiLjwwz6sgwHXCzd2aBiXTwAYsPVFBDU`
 
 ---
 
-## 🧩 Trust Chain
+## Canonical Metadata
+- **Arweave Metadata JSON:**  
+  `https://arweave.net/P-amXH38gs5Bf9nMNbeekd__2518ZgE8NvF7aKF2Ux5o`
 
-1. **Logo** → Immutable brand asset.  
-2. **Metadata** → References the logo and defines token details.  
-3. **Provenance** → References both logo + metadata, locking the audit trail.
-
----
-
-## ✅ Verification
-
-To confirm MIME types:
-
-```bash
-curl -sI https://arweave.net/raw/AJdZ9nGew1Z2vVUNNG54I1ksfm8IQ8XVdrIEYWMDMW4 | grep content-type
-curl -sI https://arweave.net/raw/nvI_kA3wGad6JXQkak1RuYeqY50pOrdG9yp4GDeQyn4 | grep content-type
-curl -sI https://arweave.net/raw/uTJdOmuVvACK1uLAK31vI-ATsQZLd8-GYlXYQmRxk9E | grep content-type
+- **Metadata JSON Content:**
+  ```json
+  {
+    "name": "Pulsaris",
+    "symbol": "PULSE",
+    "description": "The Pulsaris token — resilient, audit‑ready, and future‑proof.",
+    "image": "https://arweave.net/P-amXH38gs5Bf9nMNbeekd__2518ZgE8NvF7aKF2Ux5o",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://arweave.net/P-amXH38gs5Bf9nMNbeekd__2518ZgE8NvF7aKF2Ux5o",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }

@@ -13,9 +13,10 @@ All addresses must be verified on Solana explorers. Once published, mainnet addr
 - Bot Controller: <TO-FILL>
 
 ---
+---
 
 ## Testnet
-- PULSE Mint: <TO-FILL>
+- PULSE Mint: 5QK1wa64cTae5u9HDcBQj14GL7NrVPmGtHhcBXFffHVt
 - Staking Program: <TO-FILL>
 - Governance Program: <TO-FILL>
 - Vault Manager: <TO-FILL>
@@ -33,4 +34,9 @@ All addresses must be verified on Solana explorers. Once published, mainnet addr
 ---
 
 ## Archive
-- (Move any deprecated or superseded addresses here with notes)
+- Fw1r… (deprecated test mint, 10k tokens)
+- Dhk8… (deprecated test mint, 2.5k tokens)
+- 6yYE… (placeholder mint with max supply, not canonical)
+
+---
+

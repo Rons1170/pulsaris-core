@@ -7,10 +7,10 @@ declare_id!("Cd281Df6HDi63JiEmeYR9cnVPm6g2eL8uDbG7TdWKwQS");
 pub mod pulsaris_staking {
     use super::*;
 
-    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
-        Ok(())
-    }
-
+pub fn initialize(_ctx: Context<Initialize>) -> Result<()> {
+    Ok(())
+}
+    
 pub fn stake(ctx: Context<Stake>, amount: u64) -> Result<()> {
     let cpi_accounts = Transfer {
         from: ctx.accounts.user_token_account.to_account_info(),

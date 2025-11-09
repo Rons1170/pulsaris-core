@@ -10,8 +10,8 @@ cluster = "testnet"
 wallet = "/home/pulse-aris/.config/solana/pulsaris-testnet/id.json"
 
 [programs.testnet]
-pulsaris_master_token = "EuU9CKeysiH9xsFBD2B4n3dqry6CSzFAY4tcadZ5eFtN"
-pulsaris_category_vaults = "H9KcwtZEukpbWjtCKTupph3XM6ZwJReUHb1Y4q4bD8H7"
+pulsaris_master_token = "H9KcwtZEukpbWjtCKTupph3XM6ZwJReUHb1Y4q4bD8H7"
+pulsaris_category_vaults = "Gh4K4joEfrm2P3k1MHNBAWNobXWuuJHNNwFMpStiJVcK"
 pulsaris_hedge_manager = "GyAkayDBE1XDiXYbukc7gGSi3ddZjPhP2aH8Lwmg2Hfs"
 pulsaris_staking = "Cd281Df6HDi63JiEmeYR9cnVPm6g2eL8uDbG7TdWKwQS"
 

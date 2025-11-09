@@ -1,14 +1,15 @@
 {
-  "name": "PULSARIS",
+  "name": "Pulsaris",
   "symbol": "PULSE",
-  "description": "Multichain DeFi protocol for staking, leverage, and liquidation powered by signal intelligence.",
-  "image": "https://arweave.net/AJdZ9nGew1Z2vVUNNG54I1ksfm8IQ8XVdrIEYWMDMW4",
-  "extensions": {
-    "website": "https://github.com/Rons1170/pulsaris-core",
-    "twitter": "https://x.com/PulsarisCore",
-    "discord": "https://discord.gg/your-server-invite",
-    "discord_user": "@pulsariscore",
-    "discord_display": "PulsarisCore Official",
-    "telegram": "https://t.me/PulsarisCore"
+  "description": "The Pulsaris token — resilient, audit‑ready, and future‑proof.",
+  "image": "https://arweave.net/P-amXH38gs5Bf9nMNbeekd__2518ZgE8NvF7aKF2Ux5o",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/P-amXH38gs5Bf9nMNbeekd__2518ZgE8NvF7aKF2Ux5o",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
   }
 }
