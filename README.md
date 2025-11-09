@@ -8,13 +8,13 @@ With staking, liquidity routing, and automated risk management, $PULSE is engine
 ## 🔑 Token Details
 - **Name:** Pulsaris‑Core
 - **Symbol:** PULSE
-- **Mint Address:** `Dp1FEEd43TH6DxKXmVGBNn9wkh9Mmj3kZKgZZZ4MbuZM`
-- **Network:** Solana Devnet
+- **Mint Address (Testnet Canonical):** `5QK1wa64cTae5u9HDcBQj14GL7NrVPmGtHhcBXFffHVt`
+- **Network:** Solana Testnet
 
 ---
 
 ## 📊 Tokenomics
-- **Total Supply:** 1B
+- **Total Supply:** 1,000,000,000 PULSE
 - **Staking Rewards:** 40%
 - **Treasury:** 20%
 - **Liquidity:** 20%
@@ -41,12 +41,12 @@ The following modules will be added to the `contracts/` folder:
 
 ---
 
-## 📂 Canonical Arweave Records
+## 📂 Canonical Records
 Immutable, audit‑ready references for Pulsaris:
 
-- **Logo:** [Arweave TX](https://arweave.net/AJdZ9nGew1Z2vVUNNG54I1ksfm8IQ8XVdrIEYWMDMW4)  
-- **Metadata:** [Arweave TX](https://arweave.net/nvI_kA3wGad6JXQkak1RuYeqY50pOrdG9yp4GDeQyn4)  
-- **Provenance:** [Arweave TX](https://arweave.net/uTJdOmuVvACK1uLAK31vI-ATsQZLd8-GYlXYQmRxk9E)  
+- **Logo:** [Arweave TX](https://arweave.net/P-amXH38gs5Bf9nMNbeekd__2518ZgE8NvF7aKF2Ux5o)
+- **Metadata:** [Arweave TX](https://arweave.net/nvI_kA3wGad6JXQkak1RuYeqY50pOrdG9yp4GDeQyn4)
+- **Provenance:** See [PROVENANCE.md](./PROVENANCE.md) for canonical mint, PDA, and transaction history.
 
 ---
 
