@@ -1,7 +1,36 @@
 # 📜 Pulsaris Presale Distribution Log
-Canonical Mint: 5QK1wa64cTae5u9HDcBQj14GL7NrVPmGtHhcBXFffHVt
 
-- 7GgY7h9zj1o6x2bYt8VvX3o6X9pP6f7uQ1a2b3c4d5e6 → 1000 PULSE (Tx: [2Yfptr6wPPhV65mnfVRmF6SNRcs77pkVuF1JpDDgq8P7xUkz2TkT941CDgTeVh1AJoxbKjadF6zaAXY5tMdFpWDA](https://explorer.solana.com/tx/2Yfptr6wPPhV65mnfVRmF6SNRcs77pkVuF1JpDDgq8P7xUkz2TkT941CDgTeVh1AJoxbKjadF6zaAXY5tMdFpWDA?cluster=testnet))
-- 9xQeWvG816bUx9EPfH9fF5z9kX3v7kL2m1n2o3p4q5r6 → 2500 PULSE (Tx: [3nAE7UgKE6y1CSTodaVTJ8pDpn24bruWZVe5CfsPAQTByPJeNZV7M7AHnCEd7BckPTUGqJeN1w2wRzfGeBvFuHjX](https://explorer.solana.com/tx/3nAE7UgKE6y1CSTodaVTJ8pDpn24bruWZVe5CfsPAQTByPJeNZV7M7AHnCEd7BckPTUGqJeN1w2wRzfGeBvFuHjX?cluster=testnet))
-- EJa5Xo9bSb1QVMVrPbQKNNe4aikB3JVtyoyAcVN74cui → 5000 PULSE (Tx: [VLmnJ5vaqB6xUheoZTAsriFmMToLAhK6vg27H45q5xNLYzfGFteFiUAgUwSAizymjXcgp5U6XgKfHyZVcWtwP2q](https://explorer.solana.com/tx/VLmnJ5vaqB6xUheoZTAsriFmMToLAhK6vg27H45q5xNLYzfGFteFiUAgUwSAizymjXcgp5U6XgKfHyZVcWtwP2q?cluster=testnet))
-- FZnvjiv56SKYVdyFjQGa6oGU7QXnb3AdNSuvGH9EFWUv → 5000 PULSE (Tx: [3zwANG5TnZfikbmBB8ME6SznSLfPguhkbZrPNmNtLATG7yVYftSUusyj2CtBCMhXVXkNkX9UxuP7VjAEemN2FUds](https://explorer.solana.com/tx/3zwANG5TnZfikbmBB8ME6SznSLfPguhkbZrPNmNtLATG7yVYftSUusyj2CtBCMhXVXkNkX9UxuP7VjAEemN2FUds?cluster=testnet))
+**Canonical Mint:** HLA4zn8GH3E3t5tNXFAe3mHQEUoL7AeCdY2NUZAtj4f3  
+
+---
+
+### 🎯 Contributor Allocations
+
+- **Contributor (Solflare)**  
+  Wallet: `FZnvjiv56SKYVdyFjQGa6oGU7QXnb3AdNSuvGH9EFWUv`  
+  Allocation: 7,500 PULSE  
+  Tx Signature: `ptwq8YMYfgFFxkNL1MweJvvvm2hcK86z9CjWsPkosSyk5vvN5YUbbB892NTAyTz9KWPGc4n7NmynMmBa33B`
+
+- **Contributor (Phantom)**  
+  Wallet: `EJa5Xo9bSb1QVMVrPbQKNNe4aikB3JVtyoyAcVN74cui`  
+  Allocation: 7,500 PULSE  
+  Tx Signature: `4xux9VUMwt9DuJETALioteK45uZbGaiTsJ2MUaQ376eqr1y88QoHZZtYweqmZz9pktuzbUnciGtfeJuZfDp`
+
+---
+
+### 🏦 Treasury
+- Wallet: `DHK8Fc2i9WxKRMf8z8iEA9y5YZWBHXiXvr9pSarSjBQa`  
+- Role: Keystone (Main supply holder)  
+- Balance after batch: *<update with current supply>*
+
+---
+
+### 🌊 Liquidity Pool
+- Wallet: `<RaydiumPoolAddress>`  
+- Role: Seeded after presale
+
+---
+
+### 👥 Team Wallet
+- Wallet: `<TeamWalletPubkey>`  
+- Role: Locked allocation
